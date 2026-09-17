@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "An AI-powered health & wellness companion designed specifically for women, combining vitals tracking, cycle & ovulation predictions, breast cancer awareness, gentle reminders, and condition-aware SheDoctor guidance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
